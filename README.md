@@ -2,7 +2,7 @@
 Repositório criado para o Desafio de Projeto do Bootcamp Eduzz Fullstack Developer.
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/){:target="_blank"}
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [Mentoria 01](https://web.digitalinnovation.one/live/mentoria-01-aula-inaugural-como-ser-o-proximo-contratado-pela-eduzz-aula-inaugural/learning/49eed0c1-65cc-4aff-8ff2-17ed367dd299?back=/track/eduzz-fullstack-developer)
 
